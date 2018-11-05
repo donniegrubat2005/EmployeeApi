@@ -1,0 +1,12 @@
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\bin\Debug\EmployeeApi.Entities.dll.config
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\bin\Debug\EmployeeApi.Entities.dll
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\bin\Debug\EmployeeApi.Entities.pdb
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\bin\Debug\EntityFramework.dll
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\bin\Debug\EntityFramework.xml
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\obj\Debug\EmployeeApi.Entities.csprojAssemblyReference.cache
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\obj\Debug\EmployeeApi.Entities.csproj.CoreCompileInputs.cache
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\obj\Debug\EmployeeApi.Entities.csproj.CopyComplete
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\obj\Debug\EmployeeApi.Entities.dll
+C:\Development\Microsoft\C#\WebApi\EmployeeApi\EmployeeApi.Entities\obj\Debug\EmployeeApi.Entities.pdb
